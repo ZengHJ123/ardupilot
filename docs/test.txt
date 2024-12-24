@@ -1,0 +1,54 @@
+ArduPilot Flight System Architecture
+
+1. Ground Control Station (GCS)
+    - Mission Planner
+    - QGroundControl
+    - MAVProxy
+
+2. Communication Link
+    - Telemetry Radios
+    - WiFi
+    - 4G/LTE
+
+3. Autopilot Hardware
+    - Pixhawk
+    - CubePilot
+    - Navio2
+
+4. Firmware
+    - ArduCopter
+    - ArduPlane
+    - ArduRover
+    - ArduSub
+
+5. Sensors
+    - GPS
+    - IMU (Accelerometer, Gyroscope)
+    - Magnetometer
+    - Barometer
+    - Rangefinder
+    - Optical Flow
+
+6. Control Algorithms
+    - PID Controllers
+    - EKF (Extended Kalman Filter)
+    - Navigation and Path Planning
+
+7. Actuators
+    - Motors
+    - Servos
+    - ESCs (Electronic Speed Controllers)
+
+8. Power Management
+    - Battery Monitoring
+    - Power Distribution Board
+
+9. Safety Features
+    - Fail-safes
+    - Geofencing
+    - Return to Launch (RTL)
+
+10. User Interface
+     - Configuration and Tuning
+     - Flight Monitoring
+     - Data Logging and Analysis
